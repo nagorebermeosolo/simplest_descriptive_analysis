@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'simplest_descriptive_analysis',         
   packages = ['simplest_descriptive_analysis'],   
-  version = '0.1',      
+  version = '0.2',      
   license='MIT',        
   description = 'Esta librería permite generar un análisis descriptivo de forma rápida y sencilla',
   author = 'Nagore Bermeosolo y Ainhoa Paredes',              
@@ -14,9 +14,8 @@ setup(
           'pandas',
           'numpy',
 	    'matplotlib',
-	    'seaborn',
-          'math'
-      ],
+	    'seaborn'
+  ],
   classifiers=[
     'Development Status :: 3 - Alpha',
     'Intended Audience :: Developers',
