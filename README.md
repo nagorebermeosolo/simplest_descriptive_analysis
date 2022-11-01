@@ -4,11 +4,11 @@ Con este paquete se puede realizar un analisis descriptivo con estadisticos y di
 
 ## Pasos a seguir para usar la libreria
 
-! pip install simple-descriptive-analysis==0.0.1
+! pip install simplest-descriptive-analysis==0.0.2
 
-from simple_descriptive_analysis import functions
+from simplest_descriptive_analysis import EDA_class
 
-eda = functions.EDA_class("ejemplo.csv")
+eda = EDA_class("ejemplo.csv")
 
 eda.Descriptives()
 
