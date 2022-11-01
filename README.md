@@ -1,4 +1,4 @@
-# simple_descriptive_analysis
+# simplest_descriptive_analysis
 
 Con este paquete se puede realizar un analisis descriptivo con estadisticos y distintas visualizaciones. Permite generar visualizaciones de manera sencilla y veloz, aportando mayor conocimiento de los datos.
 
